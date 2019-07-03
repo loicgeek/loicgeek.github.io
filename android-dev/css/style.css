@@ -143,7 +143,7 @@ figure {
       padding-top: 4em; } }
   #colorlib-aside .author-img {
     width: 150px;
-    height: 150px;
+    height: 250px;
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
@@ -716,8 +716,8 @@ margin-left: 10px;}
   float: left; 
 }
 .project-image img{
-     width: 730px ; 
-    height: 355px ;
+     width: 500px ; 
+    height: 700px ;
 }
 .project-image img2{
      width: 230px ; 
